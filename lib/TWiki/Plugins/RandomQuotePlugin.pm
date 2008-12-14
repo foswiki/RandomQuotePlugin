@@ -55,10 +55,10 @@ use vars qw(
         $debug $doOldInclude $renderingWeb
     );
 
-# This should always be $Rev: 7968 $ so that TWiki can determine the checked-in
+# This should always be $Rev$ so that TWiki can determine the checked-in
 # status of the plugin. It is used by the build automation tools, so
 # you should leave it alone.
-$VERSION = '$Rev: 7968 $';
+$VERSION = '$Rev$';
 
 # This is a free-form string you can use to "name" your own plugin version.
 # It is *not* used by the build automation tools, but is reported as part
